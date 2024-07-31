@@ -1,3 +1,48 @@
+## July 31, 2024
+
+1. Added a course on an introduction to Python using the Robot.
+
+    ![screenshot with example](2024-07-31/new-course.png)
+
+    Primarily, these are the same tasks that were used for Dave, but now they can be solved using Python.
+    The tasks chosen do not involve pollution and variables, with a number of new tasks added.
+
+    ```python
+    # Import the Robot module
+    from robot import *
+
+    # List of available commands
+
+    # Commands for moving the Robot
+    move_right()
+    move_left()
+    move_up()
+    move_down()
+    
+    # To paint a cell
+    paint()
+
+    # To check if a cell is painted
+    is_cell_painted()
+    is_cell_not_painted()
+
+    # To check for a wall in a selected direction
+    is_wall_right()
+    is_wall_left()
+    is_wall_up()
+    is_wall_down()
+    
+    # To check if there is no wall in a selected direction
+    is_free_right()
+    is_free_left()
+    is_free_up()
+    is_free_down()
+    ```
+
+    The English grammar in the command names is not perfect, but the names consistently use up, down, left, and right.
+    For non-English speaking children, this seems more appropriate.
+
+    The movement commands contain the prefix 'move_' to avoid confusion with Turtle commands, which have 'left' and 'right' commands that behave differently.
 ## June 16, 2024
 
 1. The precise limit on the number of available commands for the turtle is now displayed in the message for a task not completed.
