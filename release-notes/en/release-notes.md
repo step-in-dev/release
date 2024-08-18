@@ -1,3 +1,11 @@
+## August 18, 2024
+
+StepInDev is now available as a Windows app.
+You can download it from the following link:
+[step-in-dev-1.0.0-win-x64.zip](https://github.com/step-in-dev/release/releases/download/1.0.0/step-in-dev-1.0.0-win-x64.zip)
+
+Make sure that the application is located in a folder that is not write-protected.
+
 ## July 31, 2024
 
 1. Added a course on an introduction to Python using the Robot.
