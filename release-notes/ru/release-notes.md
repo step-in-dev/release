@@ -1,6 +1,6 @@
 ## 18 августа 2024
 
-StepInDev теперь доступен в виде приложения Windows.
+StepInDev теперь доступен в виде приложения Windows, которое может работать без интернета.
 Скачать можно по следующей ссылке:
 [step-in-dev-1.0.0-win-x64.zip](https://github.com/step-in-dev/release/releases/download/1.0.0/step-in-dev-1.0.0-win-x64.zip)
 

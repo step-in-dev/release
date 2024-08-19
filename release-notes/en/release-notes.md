@@ -1,6 +1,6 @@
 ## August 18, 2024
 
-StepInDev is now available as a Windows app.
+StepInDev is now available as a Windows app that can work offline.
 You can download it from the following link:
 [step-in-dev-1.0.0-win-x64.zip](https://github.com/step-in-dev/release/releases/download/1.0.0/step-in-dev-1.0.0-win-x64.zip)
 
