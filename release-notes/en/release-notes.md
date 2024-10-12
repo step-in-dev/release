@@ -1,3 +1,25 @@
+## October 12, 2024
+
+1. The `print` and `input` commands for Python now display their output in the panel beneath the text editor.
+
+   ![screenshot with example](2024-10-12/console.png)
+
+2. The Python page is now accessible without being tied to a specific task.
+
+   ![screenshot with example](2024-10-12/python.png)
+
+   It can be used for experiments with the turtle module and for solving tasks using input/output commands.
+
+   The Python interpreter being used does not fully implement all modules and language standards. This means, for instance, that not all standard turtle commands are supported, although most work, including command synonyms. All the commands used in the corresponding turtle course and their synonyms will function here.
+
+   Basic elements such as input/output, branching commands, loops, functions, strings, lists, and classes work. Some exotic things, like using `=` in an `f` string `print(f"{myvar=}")` or the walrus operator `:=`, will not work. Features that simply cannot operate in a browser, such as file input/output, will also not work.
+
+   This means the page can certainly be used for solving tasks when learning the basics of the language, but it's not suitable for advanced usage.
+
+   Step execution and viewing variable values during step execution are available. The completed program can be saved to the user's device.
+
+   ![screenshot with example](2024-10-12/debug_save.png)
+
 ## August 18, 2024
 
 StepInDev is now available as a Windows app that can work offline.
