@@ -1,3 +1,7 @@
+## January 17, 2025
+1. Lesson 7 of the Turtle course now includes an example of drawing only the outline of a circle (Task 7).
+2. The instructions for Task 9 in Lesson 7 of the Turtle course now clearly state that there should be no fill.
+
 ## October 12, 2024
 
 1. The `print` and `input` commands for Python now display their output in the panel beneath the text editor.
