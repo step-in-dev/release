@@ -1,6 +1,5 @@
 ## January 17, 2025
-1. Lesson 7 of the Turtle course now includes an example of drawing only the outline of a circle (Task 7).
-2. The instructions for Task 9 in Lesson 7 of the Turtle course now clearly state that there should be no fill.
+1. The theoretical material for Lesson 7 of the Turtle course has been updated.
 
 ## October 12, 2024
 
