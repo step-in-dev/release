@@ -1,3 +1,12 @@
+## February 16, 2025
+
+1. A course on the basics of Python has been added, featuring traditional programming fundamentals tasks.  
+   Currently, the course includes a small number of beginner-level tasks. More tasks will be added over time.
+
+   ![screenshot with example](2025-03-16/python.png)
+
+2. A new challenge with three tasks has been added to the Turtle course.
+
 ## January 17, 2025
 1. The theoretical material for Lesson 7 of the Turtle course has been updated.
 
