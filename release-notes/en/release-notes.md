@@ -1,3 +1,11 @@
+## February 23, 2025
+
+The offline version of StepInDev has been updated (it can work without an internet connection). It contains the current state of the website.
+You can download it using the following link:  
+[step-in-dev-1.1.0-win-x64.zip](https://github.com/step-in-dev/release/releases/download/1.1.0/step-in-dev-1.1.0-win-x64.zip)
+
+Make sure the application is placed in a folder that is not write-protected.
+
 ## February 16, 2025
 
 1. A course on the basics of Python has been added, featuring traditional programming fundamentals tasks.  
