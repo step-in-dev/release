@@ -9,11 +9,11 @@
 
 3. Added graphics support. The command system is based on Processing (p5.js). Usage examples have been added.
 
-   ![screenshot with example](2025-06-03/p5.png)
+   1. ![screenshot with example](2025-06-03/p5.png)
 
-   ![screenshot with example](2025-06-03/p5run.png)
+   2. ![screenshot with example](2025-06-03/p5run.png)
 
-   ![screenshot with example](2025-06-03/examples.png)
+   3. ![screenshot with example](2025-06-03/examples.png)
 
 ## February 23, 2025
 

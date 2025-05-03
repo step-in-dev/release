@@ -9,11 +9,11 @@
 
 3. Добавлена возможность работы с графикой. За основу взята система команд Processing (p5.js). Добавлены примеры использования.
 
-   ![screenshot with example](2025-06-03/p5.png)
+   1. ![screenshot with example](2025-06-03/p5.png)
 
-   ![screenshot with example](2025-06-03/p5run.png)
+   2. ![screenshot with example](2025-06-03/p5run.png)
 
-   ![screenshot with example](2025-06-03/examples.png)
+   3. ![screenshot with example](2025-06-03/examples.png)
 
 ## 23 февраля 2025
 
