@@ -1,3 +1,20 @@
+## May 3, 2025
+1. Added command reference. Commands can be inserted into the program text by clicking on them in the reference.
+
+   ![screenshot with example](2025-06-03/help.png)
+
+2. Added the ability to share a program using a link on the "Python Online" page.
+
+   ![screenshot with example](2025-06-03/share.png)
+
+3. Added graphics support. The command system is based on Processing (p5.js). Usage examples have been added.
+
+   ![screenshot with example](2025-06-03/p5.png)
+
+   ![screenshot with example](2025-06-03/p5run.png)
+
+   ![screenshot with example](2025-06-03/examples.png)
+
 ## February 23, 2025
 
 The offline version of StepInDev has been updated (it can work without an internet connection). It contains the current state of the website.
