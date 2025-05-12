@@ -1,3 +1,13 @@
+## May 12, 2025
+The offline version of StepInDev has been updated (it can work without an internet connection). It includes the current state of the website.
+<br>Known issue: the input() command is not supported on the page with the p5 module.
+
+You can now find the download link in the site menu:
+
+![screenshot with example](2025-06-12/offline.png)
+
+Make sure the application is located in a folder that is not write-protected.
+
 ## May 3, 2025
 1. Added command reference. Commands can be inserted into the program text by clicking on them in the reference.
 
