@@ -1,3 +1,10 @@
+## August 25, 2025
+1. In the Robot course (Lesson 13. The "if" statement), the environments in the theory section and the first tasks were updated so that it is harder to use `while` instead of `if` in solutions.
+2. Added two animation examples for the p5 module.
+3. Expanded the "Python basics" course (with classic input/output problems). Added tasks on branching and loops.
+4. Improved error messages. Now, instead of just showing "bad input," the system tries to display what exactly the Python interpreter doesn’t like.
+5. Some error messages have been translated into Russian.
+
 ## May 12, 2025
 The offline version of StepInDev has been updated (it can work without an internet connection). It includes the current state of the website.
 <br>Known issue: the input() command is not supported on the page with the p5 module.
