@@ -1,3 +1,9 @@
+## August 31, 2025
+The offline version of StepInDev has been updated (it can work without the Internet). 
+It contains the current state of the website.
+<br>Known issue in the offline version: the input() command is not supported on the page with the p5 module.
+[download link](https://github.com/step-in-dev/release/releases)
+
 ## August 25, 2025
 1. In the Robot course (Lesson 13. The "if" statement), the environments in the theory section and the first tasks were updated so that it is harder to use `while` instead of `if` in solutions.
 2. Added two animation examples for the p5 module.
