@@ -1,3 +1,8 @@
+## September 13, 2025
+The offline version of StepInDev (can work without the Internet) is now available for Linux as well (preview).
+
+[Download link](https://github.com/step-in-dev/release/releases)
+
 ## August 31, 2025
 The offline version of StepInDev has been updated (it can work without the Internet). 
 It contains the current state of the website.
