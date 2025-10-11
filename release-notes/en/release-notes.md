@@ -1,3 +1,9 @@
+## October 11, 2025
+The offline version of StepInDev has been updated (it can work without the Internet).
+Added the ability to disable copying commands from the Help panel.
+
+[Download link](https://github.com/step-in-dev/release/releases)
+
 ## September 13, 2025
 The offline version of StepInDev (can work without the Internet) is now available for Linux as well (preview).
 
