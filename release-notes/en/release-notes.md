@@ -1,3 +1,8 @@
+## February 22, 2026
+The size of the drawing area for the Turtle has been increased. The previous size was 400×350 pixels. The new size is:
+- in the course with the Turtle — 550×366. This will allow drawings for assignments to be larger;
+- on the “Python online” page — 600×470. More space for drawing.
+
 ## October 11, 2025
 The offline version of StepInDev has been updated (it can work without the Internet).
 Added the ability to disable copying commands from the Help panel.
