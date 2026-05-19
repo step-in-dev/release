@@ -1,3 +1,10 @@
+## May 19, 2026
+The Robot simulator, in the form adopted on StepInDev, is now available as a module for the standard desktop version of Python.
+
+![Screenshot of the Robot window](2026-05-19/intro8_en.png)
+
+You can find more details here: [Robot Simulator](https://robot.stepindev.com/index.html)
+
 ## February 22, 2026
 The size of the drawing area for the Turtle has been increased. The previous size was 400×350 pixels. The new size is:
 - in the course with the Turtle — 550×366. This will allow drawings for assignments to be larger;
