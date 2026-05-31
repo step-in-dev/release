@@ -1,3 +1,14 @@
+## May 31, 2026
+1. Expanded the "Python basics" course (with classic input/output problems). Added tasks on strings and on converting mathematical expressions to linear form. More tasks on various topics.
+2. Added a page with an environment editor for the Robot.
+3. Changed the color of the template with the correct drawing for Turtle assignments from gray to blue.
+4. Added support for the `colormode` command for the Turtle.
+5. Added several advanced tasks for the Turtle.
+6. Added several `if` tasks for the Robot.
+7. For p5, added the `drawAxes()` function for drawing a coordinate grid.
+8. Made it harder to copy assignment conditions to the clipboard.
+9. Added keyboard shortcuts Ctrl+Enter (run the solution) and Ctrl+Shift+Enter (go to the next task).
+
 ## May 19, 2026
 The Robot simulator, in the form adopted on StepInDev, is now available as a module for the standard desktop version of Python.
 
