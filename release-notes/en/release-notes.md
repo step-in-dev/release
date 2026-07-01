@@ -1,3 +1,13 @@
+## July 1, 2026
+The offline version of StepInDev has been updated (it can work without the Internet). It contains the current state of the website and is available in two editions:
+
+1. **step-in-dev-1.5.0-win-x64.zip** — should be installed and run on each computer.
+2. **step-in-dev-1.5.0-win-x64.self-hosted.zip** — can be installed on a single computer only, while all other computers can access it through a web browser.
+
+[Installation and Launch Guide](https://github.com/step-in-dev/release/wiki/Offline-Installation-and-Setup-of-stepindev.com)
+
+[Download link](https://github.com/step-in-dev/release/releases/tag/1.5.0)
+
 ## May 31, 2026
 1. Expanded the "Python basics" course (with classic input/output problems). Added tasks on strings and on converting mathematical expressions to linear form. More tasks on various topics.
 2. Added a page with an environment editor for the Robot.
