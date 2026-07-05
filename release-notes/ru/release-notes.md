@@ -1,3 +1,12 @@
+## 5 июля 2026
+Доступны плакаты-памятки по исполнителю Робот на Python.
+
+Плакаты можно показать на проекторе в начале урока, распечатать как раздаточный материал на парту или выдать ученику домой для повторения.
+
+Подробнее: [Плакаты-памятки по исполнителю Робот на Python](https://robot.stepindev.com/articles/pamyatki-ispolnitel-robot-python/index_ru.html)
+
+Полноразмерные плакаты для печати и проектора: [github.com/step-in-dev/teachingMaterials/tree/main/robot](https://github.com/step-in-dev/teachingMaterials/tree/main/robot)
+
 ## 1 июля 2026
 Обновлен оффлайн вариант StepInDev (может работать без интернета). Содержит текущее состояние сайта и доступен в двух редакциях:
 
